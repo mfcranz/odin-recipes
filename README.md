@@ -1,1 +1,2 @@
 # odin-recipes
+The current project aims to build a simple cooking recipes website. It will consist of a main webpage (index) and several links to other pages containing different recipes. It will all be coded in HTML. No styling for the moment.
